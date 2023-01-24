@@ -6,8 +6,7 @@ Iam also an excellent remote worker.
 Iam on my way to becoming a full stack developer. 
 I look foward to working with you!!
 
-<a href="
-https://twitter.com/dan_matama">my twitter</a>
+<a href="https://twitter.com/dan_matama">my twitter</a>
 
 <a href="https://www.linkedin.com/in/daniel-matama-9190ba254/">my linkedin</a>
 
