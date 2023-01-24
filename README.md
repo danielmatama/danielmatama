@@ -5,3 +5,6 @@ Iam Profficient in HTML, CSS, Bootstrap, and JavaScript.
 Iam also an excellent remote worker. 
 Iam on my way to becoming a full stack developer. 
 I look foward to working with you!!
+
+https://twitter.com/dan_matama
+https://www.linkedin.com/in/daniel-matama-9190ba254/
