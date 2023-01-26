@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center"> Iam Daniel Matama</h1>
+<h1 align="center"> I am Daniel Matama.</h1>
 <h3 align="center">A FullStack developer from Kampala, Uganda</h3>
 
 <div id="header" align="center">
