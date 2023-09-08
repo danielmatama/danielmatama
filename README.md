@@ -11,7 +11,7 @@
   
   A todo list is a tool that allows you to keep track of tasks or activities that need to be completed. It can be a physical list written on a piece of paper or a digital list stored on a computer or phone. Todo lists can be used for personal or professional purposes, and can help you stay organized and manage your time effectively
 
-- 🌱 I’m currently learning in Microverse **HTML, CSS, JS, REACT, VUE etc**
+- 🌱 I’m proficient in **JavaScript, React, Redux, Ruby, Ruby on Rails, HTML, CSS, VUE etc**
 
 - 💬 Ask me about **react, vue, js**
 
